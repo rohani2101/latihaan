@@ -1,0 +1,70 @@
+body {
+    margin: 40px;
+    pad: 40px;
+
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(119, 0, 255);
+}
+
+.container {
+    width: 100%;
+    height: wrap;
+    display: flex;
+    margin: auto;
+    /* margin-top: 20px; */
+    /* background-color: aquamarine; */
+}
+
+.layout_kiri {
+    width: 55%;
+    height: wrap;
+    margin-top: 45px;
+    /* color: aquamarine; */
+}
+
+.layout_kanan {
+    width: 55%;
+    height: wrap;
+    margin-top: 50px;
+    text-align: justify;
+    color: brown;
+}
+
+img {
+    width: 80%;
+    height: 70%;
+    margin: top;
+}
+
+.contener1 {
+    width: 100%;
+    height: wrap;
+    display: flex;
+    margin: auto;
+}
+
+.layout_atas {
+    width: 55%;
+    height: wrap;
+    margin-top: 50px;
+}
+
+.layout_text {
+    /* justify-content: left; */
+    width: 55%;
+    height: wrap;
+    margin-top: 50px;
+    color: blue;
+    text-align: justify;
+    /* align-content: center; */
+}
+
+img {
+    width: 55%;
+    height: 70%;
+    margin-left: 20%;
+}
